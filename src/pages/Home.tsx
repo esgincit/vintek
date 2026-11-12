@@ -113,7 +113,6 @@ function Hero() {
             <div className="glass-strong relative grid h-44 w-44 place-items-center rounded-full text-center shadow-[0_0_80px_rgba(34,211,238,0.25)]">
               <span className="absolute inset-0 rounded-full border border-cyan-400/40 animate-pulse-ring" />
               <div>
-                <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-cyan-400">EXESG Core</p>
                 <p className="mt-1 font-display text-3xl font-bold text-white">VINTEK</p>
                 <p className="mt-1 font-mono text-[10px] text-slate-400">v2.0 // future-ready</p>
               </div>
